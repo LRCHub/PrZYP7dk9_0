@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Iam",
+  "base_artist": "こはならむ",
+  "createdAt": "2026-02-21T11:58:28.205994Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "iam POD (0%)",
+      "artist": "Ichiko Aoba",
+      "has_synced": false,
+      "path": "select/01_iam_POD_(0_)_Ichiko_Aoba.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Iam Abomination",
+      "artist": "Exodus",
+      "has_synced": true,
+      "path": "select/02_Iam_Abomination_Exodus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Seul Face A Lui (feat. Iam)",
+      "artist": "RZA",
+      "has_synced": true,
+      "path": "select/03_Seul_Face_A_Lui_(feat._Iam)_RZA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Iam The Stripclub",
+      "artist": "Iggy Azalea",
+      "has_synced": true,
+      "path": "select/04_Iam_The_Stripclub_Iggy_Azalea.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "IAM",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/05_IAM_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "IAM concept",
+      "artist": "IAM",
+      "has_synced": false,
+      "path": "select/06_IAM_concept_IAM.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "iam POD (0%)",
+      "artist": "Ichiko Aoba",
+      "has_synced": true,
+      "path": "select/07_iam_POD_(0_)_Ichiko_Aoba.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "IAM",
+      "artist": "電音部 feat. 黒鉄たま (CV: 秋奈), 白金 煌 (CV: 小宮有紗) & 灰島銀華 (CV: 澁谷梓希)",
+      "has_synced": false,
+      "path": "select/08_IAM_電音部_feat._黒鉄たま_(CV__秋奈),_白金_煌_(CV__小宮有紗)_&_灰島銀華_(CV__澁谷梓希).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Iam The Stripclub",
+      "artist": "Iggy Azalea",
+      "has_synced": true,
+      "path": "select/09_Iam_The_Stripclub_Iggy_Azalea.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sad Hill (feat. Iam)",
+      "artist": "Kheops",
+      "has_synced": true,
+      "path": "select/10_Sad_Hill_(feat._Iam)_Kheops.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "iam POD (0%)",
+      "artist": "Aoba, Ichiko",
+      "has_synced": true,
+      "path": "select/11_iam_POD_(0_)_Aoba,_Ichiko.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A l'heure où (feat. IAM)",
+      "artist": "Deluxe",
+      "has_synced": true,
+      "path": "select/12_A_l'heure_où_(feat._IAM)_Deluxe.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Iam",
+      "artist": "Corey Taylor",
+      "has_synced": true,
+      "path": "select/13_Iam_Corey_Taylor.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'am An Ocean",
+      "artist": "Three Chord Society",
+      "has_synced": true,
+      "path": "select/14_I'am_An_Ocean_Three_Chord_Society.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "IÂ’m You",
+      "artist": "Leona Lewis",
+      "has_synced": true,
+      "path": "select/15_IÂ’m_You_Leona_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "i'am so into you",
+      "artist": "peabo bryson",
+      "has_synced": true,
+      "path": "select/16_i'am_so_into_you_peabo_bryson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Iam",
+      "artist": "こはならむ",
+      "has_synced": false,
+      "path": "select/pl_01_Iam_こはならむ.txt"
+    }
+  ]
+}
